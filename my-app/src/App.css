@@ -1,0 +1,153 @@
+.container {
+    margin: auto auto;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.App-header {  
+  background: #f6f5ff;
+  background-position: top; 
+  height: 70px;
+  padding:15px;
+  text-align: center;
+}
+
+.navigation {
+    background: #373738;  
+    height: 40px;
+    margin-right: 353px;
+    margin-left: 353px;
+    margin-top: 5px;
+    color: white;
+    overflow: visible; 
+}
+
+.react-tabs__tab-list {
+  background: #373738;
+  border-bottom: 1px solid #aaa;
+  margin: 0 0 4px !important;
+  padding: 1pt !important;
+  
+}
+
+.react-tabs__tab {
+  margin-left: 2px;
+  bottom: -2.16px !important;
+  padding: 4px 12px !important;
+  background: #373738;
+  color: white;
+  font-size: 100%;
+  font-family: Arial Black, sans-serif;
+}
+
+.react-tabs__tab--selected {
+  background: white !important;
+  color: #b82c2c !important;
+  border-radius: 7px 7px 0 0 !important;
+}
+
+.heading {
+    background: #b82c2c;
+    height: 67px;
+    margin-right: 340px;
+    margin-left: 340px;
+    color: white;
+}
+
+.leftimage {
+    background: url(images/fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 18%;
+    height: 700px;
+}
+
+.rightimage {
+    background: url(images/fon2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    width: 18%;
+    height: 700px;
+}
+
+.EURimage {
+    background: url(images/EUR.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 42px;
+    height: 27px;
+}
+
+.USDimage {
+    background: url(images/USD.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 42px;
+    height: 27px;
+}
+
+.H1 {
+  font-size: 180%;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.H2 {
+  font-size: 140%;
+  font-family: Arial, sans-serif;
+  text-align: left;
+  font-style: oblique;
+  padding: 21px 30px;
+}
+
+.H3 {
+  color: black;
+  font-size: 110%;
+  font-family: Arial, sans-serif;
+  text-align: left;
+  font-style: oblique;
+  padding: 21px 30px;
+  margin-left: 18px;
+  margin-right: 35px;
+}
+
+.rs-table {
+  color: black;
+  font-size: 95%;
+  font-family: Arial, sans-serif;
+  margin-left: 178px;
+  margin-right: 195px;
+}
+
+.rs-table-row {
+  height: 42px !important;
+}
+
+.rs-table-cell-content {
+  padding: 8px 0px !important; 
+}
+
+.diag1 {
+    margin-left: 18px;
+    margin-top: 35px;
+}
+
+.rightgraph {
+    float: left;
+    margin-left: 30px;
+
+}
+
+.leftgraph {
+    float: right;
+    margin-right: 30px;
+}
+
+.otstup {
+    float: top;
+}

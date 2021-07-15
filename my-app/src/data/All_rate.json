@@ -1,0 +1,274 @@
+ [
+            {
+                "@ID": "R01010",
+                "CharCode": "AUD",
+                "Name": "Австралийский доллар",
+                "Nominal": "1",
+                "NumCode": "036",
+                "Value": "57,6418"
+            },
+            {
+                "@ID": "R01020A",
+                "CharCode": "AZN",
+                "Name": "Азербайджанский манат",
+                "Nominal": "1",
+                "NumCode": "944",
+                "Value": "43,6358"
+            },
+            {
+                "@ID": "R01035",
+                "CharCode": "GBP",
+                "Name": "Фунт стерлингов Соединенного королевства",
+                "Nominal": "1",
+                "NumCode": "826",
+                "Value": "103,2288"
+            },
+            {
+                "@ID": "R01060",
+                "CharCode": "AMD",
+                "Name": "Армянских драмов",
+                "Nominal": "100",
+                "NumCode": "051",
+                "Value": "14,2175"
+            },
+            {
+                "@ID": "R01090B",
+                "CharCode": "BYN",
+                "Name": "Белорусский рубль",
+                "Nominal": "1",
+                "NumCode": "933",
+                "Value": "29,2582"
+            },
+            {
+                "@ID": "R01100",
+                "CharCode": "BGN",
+                "Name": "Болгарский лев",
+                "Nominal": "1",
+                "NumCode": "975",
+                "Value": "45,7864"
+            },
+            {
+                "@ID": "R01115",
+                "CharCode": "BRL",
+                "Name": "Бразильский реал",
+                "Nominal": "1",
+                "NumCode": "986",
+                "Value": "14,0497"
+            },
+            {
+                "@ID": "R01135",
+                "CharCode": "HUF",
+                "Name": "Венгерских форинтов",
+                "Nominal": "100",
+                "NumCode": "348",
+                "Value": "24,9528"
+            },
+            {
+                "@ID": "R01200",
+                "CharCode": "HKD",
+                "Name": "Гонконгских долларов",
+                "Nominal": "10",
+                "NumCode": "344",
+                "Value": "95,4345"
+            },
+            {
+                "@ID": "R01215",
+                "CharCode": "DKK",
+                "Name": "Датская крона",
+                "Nominal": "1",
+                "NumCode": "208",
+                "Value": "12,0431"
+            },
+            {
+                "@ID": "R01235",
+                "CharCode": "USD",
+                "Name": "Доллар США",
+                "Nominal": "1",
+                "NumCode": "840",
+                "Value": "74,1373"
+            },
+            {
+                "@ID": "R01239",
+                "CharCode": "EUR",
+                "Name": "Евро",
+                "Nominal": "1",
+                "NumCode": "978",
+                "Value": "89,5060"
+            },
+            {
+                "@ID": "R01270",
+                "CharCode": "INR",
+                "Name": "Индийских рупий",
+                "Nominal": "10",
+                "NumCode": "356",
+                "Value": "10,0757"
+            },
+            {
+                "@ID": "R01335",
+                "CharCode": "KZT",
+                "Name": "Казахстанских тенге",
+                "Nominal": "100",
+                "NumCode": "398",
+                "Value": "17,3784"
+            },
+            {
+                "@ID": "R01350",
+                "CharCode": "CAD",
+                "Name": "Канадский доллар",
+                "Nominal": "1",
+                "NumCode": "124",
+                "Value": "60,8531"
+            },
+            {
+                "@ID": "R01370",
+                "CharCode": "KGS",
+                "Name": "Киргизских сомов",
+                "Nominal": "100",
+                "NumCode": "417",
+                "Value": "87,3980"
+            },
+            {
+                "@ID": "R01375",
+                "CharCode": "CNY",
+                "Name": "Китайский юань",
+                "Nominal": "1",
+                "NumCode": "156",
+                "Value": "11,4780"
+            },
+            {
+                "@ID": "R01500",
+                "CharCode": "MDL",
+                "Name": "Молдавских леев",
+                "Nominal": "10",
+                "NumCode": "498",
+                "Value": "41,5335"
+            },
+            {
+                "@ID": "R01535",
+                "CharCode": "NOK",
+                "Name": "Норвежских крон",
+                "Nominal": "10",
+                "NumCode": "578",
+                "Value": "89,3134"
+            },
+            {
+                "@ID": "R01565",
+                "CharCode": "PLN",
+                "Name": "Польский злотый",
+                "Nominal": "1",
+                "NumCode": "985",
+                "Value": "19,5752"
+            },
+            {
+                "@ID": "R01585F",
+                "CharCode": "RON",
+                "Name": "Румынский лей",
+                "Nominal": "1",
+                "NumCode": "946",
+                "Value": "18,1763"
+            },
+            {
+                "@ID": "R01589",
+                "CharCode": "XDR",
+                "Name": "СДР (специальные права заимствования)",
+                "Nominal": "1",
+                "NumCode": "960",
+                "Value": "106,2884"
+            },
+            {
+                "@ID": "R01625",
+                "CharCode": "SGD",
+                "Name": "Сингапурский доллар",
+                "Nominal": "1",
+                "NumCode": "702",
+                "Value": "55,6670"
+            },
+            {
+                "@ID": "R01670",
+                "CharCode": "TJS",
+                "Name": "Таджикских сомони",
+                "Nominal": "10",
+                "NumCode": "972",
+                "Value": "65,0042"
+            },
+            {
+                "@ID": "R01700J",
+                "CharCode": "TRY",
+                "Name": "Турецких лир",
+                "Nominal": "10",
+                "NumCode": "949",
+                "Value": "89,4946"
+            },
+            {
+                "@ID": "R01710A",
+                "CharCode": "TMT",
+                "Name": "Новый туркменский манат",
+                "Nominal": "1",
+                "NumCode": "934",
+                "Value": "21,2124"
+            },
+            {
+                "@ID": "R01717",
+                "CharCode": "UZS",
+                "Name": "Узбекских сумов",
+                "Nominal": "10000",
+                "NumCode": "860",
+                "Value": "70,6508"
+            },
+            {
+                "@ID": "R01720",
+                "CharCode": "UAH",
+                "Name": "Украинских гривен",
+                "Nominal": "10",
+                "NumCode": "980",
+                "Value": "26,6815"
+            },
+            {
+                "@ID": "R01760",
+                "CharCode": "CZK",
+                "Name": "Чешских крон",
+                "Nominal": "10",
+                "NumCode": "203",
+                "Value": "34,7899"
+            },
+            {
+                "@ID": "R01770",
+                "CharCode": "SEK",
+                "Name": "Шведских крон",
+                "Nominal": "10",
+                "NumCode": "752",
+                "Value": "88,2156"
+            },
+            {
+                "@ID": "R01775",
+                "CharCode": "CHF",
+                "Name": "Швейцарский франк",
+                "Nominal": "1",
+                "NumCode": "756",
+                "Value": "81,6670"
+            },
+            {
+                "@ID": "R01810",
+                "CharCode": "ZAR",
+                "Name": "Южноафриканских рэндов",
+                "Nominal": "10",
+                "NumCode": "710",
+                "Value": "52,0320"
+            },
+            {
+                "@ID": "R01815",
+                "CharCode": "KRW",
+                "Name": "Вон Республики Корея",
+                "Nominal": "1000",
+                "NumCode": "410",
+                "Value": "66,1052"
+            },
+            {
+                "@ID": "R01820",
+                "CharCode": "JPY",
+                "Name": "Японских иен",
+                "Nominal": "100",
+                "NumCode": "392",
+                "Value": "67,9255"
+            }
+        ]
